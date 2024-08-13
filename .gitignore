@@ -1,0 +1,2 @@
+# Ignore the xgboost.dll file
+env/Lib/site-packages/xgboost/lib/xgboost.dll
