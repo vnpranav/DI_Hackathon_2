@@ -44,3 +44,7 @@ Key Tasks:
 
     Build a recommendation system for suggesting personalized marketing strategies based on customer profiles and historical data.
     Enhance the bank’s ability to provide tailored offers to different customer segments.
+
+    Model Training: A Random Forest classifier is used to predict if a customer will subscribe (y).
+    Clustering: K-Means clustering segments customers into groups.
+    Recommendation: Based on the cluster, a tailored marketing strategy is recommended.
