@@ -1,5 +1,6 @@
 # DI_Hackathon_2
  2nd hackathon involving data analytics
+ Video link : https://drive.google.com/drive/folders/1PY8VLrmw4jClfariEKc7-5rAujhIYf4d?usp=sharing
 
 Hackathon Subject 1: *Optimizing Bank Marketing Strategies for Customer Acquisition*
 
