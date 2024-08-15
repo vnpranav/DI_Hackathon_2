@@ -51,5 +51,3 @@ Key Tasks:
 
     StandardScaler: Standardizes the feature matrix (X) by removing the mean and scaling to unit variance. This step is important before applying K-Means clustering.
     kmeans.fit_predict(X_scaled): Applies the K-Means algorithm to the standardized data and assigns each data point to one of the 5 clusters (n_clusters=5). The resulting cluster labels are stored in clusters.
-
-    
